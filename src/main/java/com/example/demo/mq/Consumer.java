@@ -8,16 +8,7 @@ import org.springframework.scheduling.annotation.Async;
 import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.scheduling.annotation.Scheduled;
 import org.springframework.stereotype.Component;
-/**
- * 
- * 类名: Consumer <br/> 
- * 功能: TODO ADD FUNCTION. <br/> 
- * 创建时间: 2019年4月25日 上午9:13:45 <br/> 
- * 
- * @author caoti 
- * @version  
- * @since Jdk 1.8
- */
+
 @EnableAsync
 @Component
 public class Consumer {
